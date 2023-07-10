@@ -1,0 +1,12 @@
+.Skill-container
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 925px;
+   background-image: url("../../../assets/Home/waves.png"); 
+ 
+}

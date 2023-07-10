@@ -1,0 +1,56 @@
+.item-list ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+.item-list li {
+  float:left;
+}
+.item-list li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111111;
+}
+@media screen and  (max-width:810px)
+{
+  
+  .item-list li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+}
+@media screen and  (max-width:812px)
+{
+  
+  .item-list li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 9px;
+    text-decoration: none;
+  }
+  
+}
+@media screen and  (max-width:700px)
+{
+  
+  .item-list li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 3px;
+    text-decoration: none;
+  }
+  
+}

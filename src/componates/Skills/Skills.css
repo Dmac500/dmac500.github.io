@@ -1,0 +1,233 @@
+.skills-container
+{
+ display: flex;
+}
+.skill-title
+{
+text-align: center;
+color:greenyellow;
+font-size: 40px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.skill-grid
+{
+  display: grid;
+  grid-template-columns: repeat(2,1fr) ;
+  grid-gap: 75px 20px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  width:100vw;
+  padding-left: 10cm;
+  align-items: center;
+
+     
+}
+.skill-grid i
+{
+  color:green;
+  padding-right: 20px ;
+  padding: 10px;
+}
+.skill1
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  
+}
+.skill2
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill3
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill4
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill5
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill6
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+@media screen and (max-width: 1110px){
+  .skill-grid
+  {
+    
+    grid-template-columns: repeat(1,1fr) ;
+    grid-gap: 50px;
+    align-items: center;
+    align-content: center;
+    padding-left: 250px;
+    
+  }
+  .skill-grid i
+{
+  color:green;
+}
+.skill1
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  
+}
+.skill2
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill3
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill4
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill5
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+.skill6
+{
+  border-style: solid;
+  width: 50%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+}
+}
+@media screen and (max-width: 810px){
+  .skill-grid
+  {
+    
+    grid-template-columns: repeat(1,1fr) ;
+    grid-gap: 50px;
+    align-items: center;
+    align-content: center;
+    padding-left: 75px;
+    
+    
+  }
+  .skill1
+{
+  border-style: solid;
+  width: 70%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  font-size: 10px;
+  
+ 
+}
+.skill2
+{
+  border-style: solid;
+  width: 70%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  font-size: 10px;
+}
+.skill3
+{
+  border-style: solid;
+  width: 70%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  font-size: 10px;
+}
+.skill4
+{
+  border-style: solid;
+  width: 70%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  font-size: 10px;
+}
+.skill5
+{
+  border-style: solid;
+  width: 70%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  font-size: 10px;
+}
+.skill6
+{
+  border-style: solid;
+  width: 70%;
+  border: 2px solid grey;
+  float: left;
+  background-color: gray;
+  color:blanchedalmond;
+  font-size: 10px;
+}
+}
+      
+

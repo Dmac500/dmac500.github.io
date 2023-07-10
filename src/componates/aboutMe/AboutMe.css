@@ -1,0 +1,22 @@
+.full{
+  background-image: url("../../assets//Home/bgam.jpg");
+ min-height: 875px;
+}
+
+.container {
+  display: block;
+  font-size: 80%;
+ 
+}
+ 
+img {
+width: 42%;
+height:42%;
+}
+ 
+  .text {
+    position: relative;
+    margin: -3rem 0 2rem 1rem;
+    padding: 1rem;
+    background: rgb(178, 209, 219);
+ } 
