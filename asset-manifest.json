@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.124d835e.css",
-    "main.js": "/static/js/main.24c9f0aa.js",
+    "main.css": "/static/css/main.8cc07119.css",
+    "main.js": "/static/js/main.e0b2d1d1.js",
     "static/media/AboutMepp.jpg": "/static/media/AboutMepp.80554eb570eb3ecb4f5f.jpg",
-    "static/media/Popcorn.jpg": "/static/media/Popcorn.fcb41b7d92c1565dcddd.jpg",
     "static/media/bgam.jpg": "/static/media/bgam.14bf80613eaa2ab740c4.jpg",
     "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -12,16 +11,15 @@
     "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/bg-Projects.png": "/static/media/bg-Projects.491ef9119d9d31ec457a.png",
-    "static/media/cryptocurrency-twitter.jpg": "/static/media/cryptocurrency-twitter.d647649a8a361db38cdf.jpg",
+    "static/media/fix_later.jpg": "/static/media/fix_later.1364da7d8fbaba136375.jpg",
     "static/media/bg6.jpg": "/static/media/bg6.3b55f57908d6ed74fcfd.jpg",
     "static/media/profilephoto.jpg": "/static/media/profilephoto.d805f8723f60ee4777c1.jpg",
     "index.html": "/index.html",
-    "main.124d835e.css.map": "/static/css/main.124d835e.css.map",
-    "main.24c9f0aa.js.map": "/static/js/main.24c9f0aa.js.map"
+    "main.8cc07119.css.map": "/static/css/main.8cc07119.css.map",
+    "main.e0b2d1d1.js.map": "/static/js/main.e0b2d1d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.124d835e.css",
-    "static/js/main.24c9f0aa.js"
+    "static/css/main.8cc07119.css",
+    "static/js/main.e0b2d1d1.js"
   ]
 }
