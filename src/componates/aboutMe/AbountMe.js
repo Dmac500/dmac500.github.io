@@ -6,7 +6,7 @@ export default function AbountMe() {
   <div class= "full">
   <div class="container">
   <div class="image">
-    <img src={me}/>
+    <img src={me} alt="this should be me"/>
   </div>
   <div class="text">
     <p>As an accomplished ORMB and Control-M developer, I bring a strong foundation in software development and a passion for continuous learning to deliver innovative solutions. With a cum laude graduation from the University of Illinois at Chicago (UIC), I have developed a solid understanding of software engineering principles and techniques.
